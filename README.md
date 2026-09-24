@@ -4,7 +4,7 @@ An exploratory Explainable AI (XAI) project for analyzing satellite imagery of f
 
 The project investigates not only whether a deep learning model can classify satellite images as **Flood** or **Non-Flood**, but also **why the model makes its predictions**.
 
----
+--- 
 
 ## Overview
 
